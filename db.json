@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Govarthan",
+      "emailid": "govarthan.a@iqvia.com",
+      "password": "12345",
+      "cpassword": "12345",
+      "accept": true,
+      "id": 1
+    },
+    {
+      "name": "test",
+      "emailid": "test@mail.com",
+      "password": "12345",
+      "cpassword": "12345",
+      "accept": true,
+      "id": 2
+    },
+    {
+      "name": "test1",
+      "emailid": "test1@gmail.com",
+      "password": "12345",
+      "cpassword": "12345",
+      "accept": true,
+      "id": 3
+    },
+    {
+      "name": "raghu prasad k s",
+      "emailid": "prasadraghuks@gmail.com",
+      "password": "test@123",
+      "cpassword": "test@123",
+      "accept": true,
+      "id": 4
+    },
+    {
+      "name": "sidda",
+      "emailid": "sidda@gmail.com",
+      "password": "test@123",
+      "cpassword": "test@123",
+      "accept": true,
+      "id": 5
+    }
+  ],
+  "cources": [
+    {
+      "id": 1,
+      "title": "Crash Course on React",
+      "author": "Traversy Media",
+      "desc": "Get started with React in this crash course. We will be building a task tracker app and look at components, props, state, hooks, working with an API and more.",
+      "url": "w7ejDZ8SWv8",
+      "price": 130,
+      "subscribers": 20,
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "title": "React Tutorial for Beginners",
+      "author": "Programming with Mosh",
+      "desc": "React JS Tutorial for Beginners - Learn React 18 with TypeScript and build awesome frontend app! ",
+      "url": "SqcY0GlETPk",
+      "price": 400,
+      "subscribers": 43,
+      "rating": 4.1
+    },
+    {
+      "id": 3,
+      "title": "All The JavaScript You Need To Know For React",
+      "author": "PedroTech",
+      "desc": "In this video I will go over all the JavaScript I believe is necessary for someone starting to learn react. Obviously, the more javascript the better!",
+      "url": "m55PTVUrlnA",
+      "price": 220,
+      "subscribers": 1.7,
+      "rating": 4.6
+    }
+  ]
+}
